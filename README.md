@@ -14,6 +14,7 @@
 </div>
 <div align="center">
 ---
+  
 ### 🎛️ SYSTEM DIAGNOSTIC HUD
 
 | TELEMETRY PARAMETER | REGISTER / ADDRESS | STATE VALUE | OPERATIONAL STATUS |
