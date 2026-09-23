@@ -14,7 +14,6 @@
 </div>
 <div align="center">
 ---
-
 ### 🎛️ SYSTEM DIAGNOSTIC HUD
 
 | TELEMETRY PARAMETER | REGISTER / ADDRESS | STATE VALUE | OPERATIONAL STATUS |
@@ -25,7 +24,6 @@
 | **ASLR Status** | `VA_SPACE` | `2 (Full Randomization)` | HARDENED |
 | **Memory Page Table** | `CR3` | `0x0000000103F4A000` | MAPPED_DIRECT |
 | **Target Architecture** | `ARCH` | `x86_64 Bare-Metal` | OPTIMIZED |
-
 ---
 
 ### 🧩 LOW-LEVEL STACK MATRIX
@@ -33,9 +31,7 @@
 #### Systems & Hardware Execution
 
 #### Analysis & Security Frameworks
-
 ---
-
 
 ### ⚡ PROJECT MATRIX // ACTIVE BOUNDARIES
 
