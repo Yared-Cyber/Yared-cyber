@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 
-![Ring 0 Resident](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&center=true&vcenter=true&width=500&lines=Ring+0+Resident;)
+![Ring 0 Resident](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&center=true&vcenter=true&width=500&lines=System+Hacker;)
 
 </div>
 <div align="center">
