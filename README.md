@@ -44,3 +44,4 @@
 | **`lkm-audit-engine`** | `Linux 6.x` | `Ring 0` | Real-time kernel data structure validation & hook detection |
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Yared-cyber&color=007ec6&style=flat-square)
