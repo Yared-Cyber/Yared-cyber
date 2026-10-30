@@ -15,7 +15,7 @@
 <div align="center">
 ---
   
-### 🎛️ SYSTEM DIAGNOSTIC HUD
+###  SYSTEM DIAGNOSTIC HUD
 
 | TELEMETRY PARAMETER | REGISTER / ADDRESS | STATE VALUE | OPERATIONAL STATUS |
 | --- | --- | --- | --- |
@@ -27,14 +27,14 @@
 | **Target Architecture** | `ARCH` | `x86_64 Bare-Metal` | OPTIMIZED |
 ---
 
-### 🧩 LOW-LEVEL STACK MATRIX
+###  LOW-LEVEL STACK MATRIX
 
 #### Systems & Hardware Execution
 
 #### Analysis & Security Frameworks
 ---
 
-### ⚡ PROJECT MATRIX // ACTIVE BOUNDARIES
+###  PROJECT MATRIX // ACTIVE BOUNDARIES
 
 | BOUNDARY / PROJECT | TARGET ARCH | PRIVILEGE LEVEL | EXECUTION OBJECTIVE |
 | --- | --- | --- | --- |
